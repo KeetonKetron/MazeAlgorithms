@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WYEOE2qiOa/sRixJFJZcl2YBrRiy7l5XXdDugDSbdZLQfhTO5wWOCIxH3to8/A/AjTNj2hZnPu9n+hRPJ3r2qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\The Beast\\source\\repos\\MazeLearning\\MazeLearning\\MazeLearning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The Beast\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\The Beast\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\The Beast\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\The Beast\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
